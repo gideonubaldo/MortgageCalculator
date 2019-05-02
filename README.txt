@@ -1,6 +1,3 @@
-name:Gideon O. Ubaldo
-studentID#:011312041
-emailID:gideon.ubaldo@sjsu.edu
 how to build:
 1)Import project to Android Studio
 2)pres Run 'app'
